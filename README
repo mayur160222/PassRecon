@@ -1,0 +1,26 @@
+# 🔒 Password Toolkit - Streamlit Application
+
+![Password Toolkit Banner](https://via.placeholder.com/800x200/3498db/ffffff?text=Password+Security+Toolkit)
+
+A comprehensive toolkit for analyzing password strength, generating custom wordlists, and creating password policies with regex validation.
+
+## Features
+
+- 🔐 **Password Strength Analysis**  
+  Realistic strength estimation using zxcvbn algorithm with crack time predictions
+- 📝 **Wordlist Generator**  
+  Create targeted dictionaries for security testing with leetspeak and pattern options
+- 🛡️ **Password Policy Creator**  
+  Generate custom password requirements with regex validation patterns
+- 📱 **Modern UI**  
+  Responsive design with interactive elements and visual feedback
+- 📊 **Security Insights**  
+  Detailed suggestions and warnings for password improvement
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/password-toolkit.git
+cd password-toolkit
+
